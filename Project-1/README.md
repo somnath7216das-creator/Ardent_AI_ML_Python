@@ -159,7 +159,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👤 Mentor
+## 👤 Author
 
 **Your Name**
 - GitHub: [programmer-Somnath](https://github.com/programmer-Somnath)
