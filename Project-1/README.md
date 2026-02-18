@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [programmer-Somnath](https://github.com/programmer-Somnath)
+- GitHub: [DeveloperSomnath](https://github.com/DeveloperSomnath)
 - LinkedIn: [programmer-Somnath](https://linkedin.com/in/programmer-Somnath)
 
 ---
