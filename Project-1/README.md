@@ -162,7 +162,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Mentor
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/programmer-Somnath)
+- GitHub: [@your-username](https://github.com/developer-Somnath)
 - LinkedIn: [your-linkedin](https://linkedin.com/in/programmer-Somnath)
 
 ---
