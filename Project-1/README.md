@@ -155,7 +155,7 @@ Contributions, suggestions, and improvements are welcome! Feel free to open an i
 
 ## 👤 Author
 
-**Your Name**
+**Somnath Das**
 - GitHub: [DeveloperSomnath](https://github.com/DeveloperSomnath)
 - LinkedIn: [programmer-Somnath](https://www.linkedin.com/in/somnath-das-02527a26b/)
 
