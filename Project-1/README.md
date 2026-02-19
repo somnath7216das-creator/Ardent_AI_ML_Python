@@ -163,7 +163,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: [DeveloperSomnath](https://github.com/DeveloperSomnath)
-- LinkedIn: [programmer-Somnath](https://linkedin.com/in/programmer-Somnath)
+- LinkedIn: [programmer-Somnath](https://www.linkedin.com/in/somnath-das-02527a26b/)
 
 ---
 
