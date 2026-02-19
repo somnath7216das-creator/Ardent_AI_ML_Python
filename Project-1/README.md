@@ -153,12 +153,6 @@ Contributions, suggestions, and improvements are welcome! Feel free to open an i
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 👤 Author
 
 **Your Name**
