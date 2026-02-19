@@ -161,11 +161,5 @@ pip install numpy pandas matplotlib scikit-learn
 
 ## 🙋 Author
 
-**Your Name**  
+**Somnath Das**  
 [GitHub](https://github.com/DeveloperSomnath) • [LinkedIn](https://www.linkedin.com/in/somnath-das-02527a26b/)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
