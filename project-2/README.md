@@ -162,7 +162,7 @@ pip install numpy pandas matplotlib scikit-learn
 ## 🙋 Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) • [LinkedIn]([https://www.linkedin.com/in/somnath-das-02527a26b/])
+[GitHub](https://github.com/your-username) • [LinkedIn](https://www.linkedin.com/in/somnath-das-02527a26b/)
 
 ---
 
