@@ -140,5 +140,5 @@ keras
 
 ## 📬 Contact
 
-- 🐙 **GitHub:** [your-username](https://github.com/DeveloperSomnath)
+- 🐙 **GitHub:** [DeveloperSomnath](https://github.com/DeveloperSomnath)
 - 📧 **Email:** `somnath7216das@email.com`
