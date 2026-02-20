@@ -140,12 +140,5 @@ keras
 
 ## 📬 Contact
 
-- 🐙 **GitHub:** [your-username](https://github.com/your-username)
+- 🐙 **GitHub:** [your-username](https://github.com/DeveloperSomnath)
 - 📧 **Email:** `somnath7216das@email.com`
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).  
-Built with 💚 using Python and Computer Vision.
